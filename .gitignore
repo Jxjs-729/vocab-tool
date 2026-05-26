@@ -1,0 +1,7 @@
+*.pdf
+raw_text.txt
+words_clean.json
+words_parsed.json
+words_compact.json
+__pycache__/
+新建文件夹/
